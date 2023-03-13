@@ -50,4 +50,8 @@ public class Employee {
     }
     
     //employee class'inda bir takim degisiklikler yapıldı
+
+
+
+    //employee class'inda hataya sebeb veren yer düzeltildi
 }

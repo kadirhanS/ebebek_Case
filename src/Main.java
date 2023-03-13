@@ -7,13 +7,13 @@ public class Main {
 
 //        yeni branch de kodlar ekliyorum
         System.out.println("1. kod ");
-        System.out.println("2. kod");
+
         System.out.println("3. kod");
 
         //yeni kisiler kodlar ekliyor 
-        //  1. kod 
-        //  2. kod 
-        //  3. kod 
+        //  1. kod
+
+
         //  4. kod
     }
 }
