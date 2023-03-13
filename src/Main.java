@@ -15,5 +15,9 @@ public class Main {
 
 
         //  4. kod
+
+        /*
+        19:51 yeni kodlar ekleniyor
+         */
     }
 }
