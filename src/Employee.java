@@ -48,4 +48,6 @@ public class Employee {
                 " Salary with tax and bonuses = " + (salary - tax() + bonus()) + ",\n" +
                 " Total salary = " + (salary + bonus());
     }
+    
+    //employee class'inda bir takim degisiklikler yapıldı
 }
